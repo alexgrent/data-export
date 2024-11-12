@@ -6,7 +6,7 @@
 	<groupId>org.reactome.server.qa</groupId>
 	<artifactId>data-export</artifactId>
 	<packaging>jar</packaging>
-	<version>2.1.0</version>
+	<version>2.2.0</version>
 	<name>Data Export</name>
 
     <parent>
